@@ -2,4 +2,4 @@
 
 Використовував
 
-Node.js , joi, jsonwebtoken, cloudinary, bcrypt , mongoose
+Node.js, express , joi, jsonwebtoken, cloudinary, bcrypt , mongoose
