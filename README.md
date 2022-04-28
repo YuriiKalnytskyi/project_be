@@ -1,4 +1,5 @@
-# project_be
+Кальницький Юрій ТР-41
 
+Використовував
 
-djjdjdjdj
+Node.js , joi, jsonwebtoken, cloudinary, bcrypt , mongoose
